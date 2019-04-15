@@ -1,0 +1,31 @@
+{
+  "name": "pomelo-rpc-es6",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetEase/pomelo-rpc-es6-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NetEase/pomelo-rpc-es6-es6/issues"
+  },
+  "homepage": "https://github.com/NetEase/pomelo-rpc-es6-es6#readme",
+  "dependencies": {
+    "async": "^2.6.2",
+    "bearcat-buffer": "^0.1.1",
+    "crc": "^3.8.0",
+    "mqtt-connection": "^4.0.0",
+    "node-uuid": "^1.4.8"
+  }
+}
